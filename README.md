@@ -2,7 +2,7 @@
 
 Color palettes for WS2812B LED strips driven by the [WS2812B_RMT](https://github.com/1Pats/WS2812B_RMT) library.
 
-Select a palette by name by using pbGetLedPalette() , and the library stretches or squeezes it to the length of your
+Select a palette by name with `pbGetPalette()`, and the library stretches or squeezes it to the length of your
 LED strip. With a 100-LED strip you always get 100 colors, whatever palette you pick.
 
 ## ✅ Requirements
