@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For LEDPalettes
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+CLedPalettes	KEYWORD1
+PaletteName	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+szSelectPalette	KEYWORD2
+pbMapToLedStrip	KEYWORD2
+pbGetPalette	KEYWORD2
+vSetPixelFromPalette	KEYWORD2
+vShowActivePalette	KEYWORD2
+vShowAllPalettes	KEYWORD2
+pbGetLedPalette	KEYWORD2
+szGetLedPaletteSize	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+bPalettes	LITERAL1
+RED	LITERAL1
+GREEN	LITERAL1
+BLUE	LITERAL1
+YELLOW	LITERAL1
+WATER	LITERAL1
+OCEANBLUESERENITY	LITERAL1
+CREAMY	LITERAL1
+BLUESERENITY	LITERAL1
+GREENHARMONY	LITERAL1
+CHRISTMAS	LITERAL1
+RALPHLAURENCHRISTMAS	LITERAL1
+FIRE	LITERAL1
+RAINBOW	LITERAL1
+LAST	LITERAL1
